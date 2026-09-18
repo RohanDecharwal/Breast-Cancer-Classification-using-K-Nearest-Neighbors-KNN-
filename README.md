@@ -91,8 +91,8 @@ This project demonstrates the effectiveness of the K-Nearest Neighbors algorithm
 ## 📁 Repository Structure
 
 ```
-Assignment-4/
-│── Assignment_4.ipynb
+Breast Cancer Classification using K-Nearest Neighbors/
+│── Breast Cancer Classification using K-Nearest Neighbors.ipynb
 │── README.md
 ```
 
